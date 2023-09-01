@@ -20,9 +20,5 @@ public class Aluno {
 		Aluno outro	= (Aluno) o;
 		return this.nome.equals(outro.nome);
 	}
-	
-	public float hahaha() {
-		return null;
-	}
 
 }
